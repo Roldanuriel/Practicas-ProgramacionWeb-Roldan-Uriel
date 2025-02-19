@@ -26,3 +26,11 @@ table {
     font-family: cursive;
     font-size: 40px;
 }
+.hora{
+    
+    border: 1px solid black;
+    background-color: rgb(204, 255, 235);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 8px;
+}
