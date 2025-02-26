@@ -1,0 +1,20 @@
+.button{
+    border-radius: 15px;
+    background-color: rgb(241, 64, 218);
+    color: blue;
+    padding: 10px 20px;
+    text-align: end;
+    border: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo{
+    border-radius: 15px;
+    background-color: rgb(82, 33, 197);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: center;
+    border: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
